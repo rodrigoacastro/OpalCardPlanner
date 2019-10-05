@@ -11,7 +11,7 @@ library(tidyverse)
 source("opal_planner_functions.r")
 
 
-# main variables
+# main variables (most provided by the functions)
 
 current_credit = 17
 # auto_topup = 10	
